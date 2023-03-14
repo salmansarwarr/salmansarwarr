@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Muhammad Salman Sarwar</h1>
-<h3 align="left">A passionate Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Salman Sarwar</h1>
+<h3 align="center">A passionate Web Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a>muhammadsalmansarwar32@gmail.com</a></h3>
 <p align="left">
 </p>
 
