@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Salman Sarwar</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Blockchain Developer</h3>
 
 <h3 align="left">Connect with me: <a href='mailto:muhammadsalmansarwar32@gmail.com'>muhammadsalmansarwar32@gmail.com</a></h3>
 <p align="left">
