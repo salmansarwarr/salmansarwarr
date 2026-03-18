@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Salman Sarwar</h1>
-<h3 align="center">A passionate Blockchain Developer</h3>
+<h3 align="center">A passionate Software Engnieer</h3>
 
 <h3 align="left">Connect with me: <a href='mailto:muhammadsalmansarwar32@gmail.com'>muhammadsalmansarwar32@gmail.com</a></h3>
 <h3 align="left">Portfolio: <a href='https://salman-sarwar.vercel.app/'>https://salman-sarwar.vercel.app/</a></h3>
